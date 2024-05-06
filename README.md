@@ -1,0 +1,1 @@
+This project is a classic implementation of the Tic Tac Toe game using HTML, CSS, and JavaScript. Enjoy hours of fun with this interactive game where players take turns to mark X or O on a 3x3 grid. Challenge your friends , Have fun!"
